@@ -1,0 +1,6 @@
+airflow users create \
+          --username admin \
+          --firstname Dhruv \
+          --lastname Reddy \
+          --role Admin \
+          --email saidhruvreddy@gmail.com
